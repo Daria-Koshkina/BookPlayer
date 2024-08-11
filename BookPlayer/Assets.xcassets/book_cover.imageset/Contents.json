@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Alices_Adventures_in_Wonderland_1003.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
